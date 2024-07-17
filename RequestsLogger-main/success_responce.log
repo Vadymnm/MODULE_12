@@ -1,0 +1,6 @@
+2024-07-17 15:37:09,631 - info - INFO - ('https://www.youtube.com/', 'response - ', 200)
+2024-07-17 15:37:12,782 - info - INFO - ('https://wikipedia.org', 'response - ', 200)
+2024-07-17 15:37:14,412 - info - INFO - ('https://yahoo.com', 'response - ', 200)
+2024-07-17 15:37:14,695 - info - INFO - ('https://yandex.ru', 'response - ', 200)
+2024-07-17 15:37:15,943 - info - INFO - ('https://whatsapp.com', 'response - ', 200)
+2024-07-17 15:37:17,840 - info - INFO - ('https://tiktok.com', 'response - ', 200)
